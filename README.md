@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Wajid
 
-<!--
-**Wajid077/Wajid077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer. I build client websites and my own small SaaS tools, with a focus on technical SEO and Core Web Vitals.
 
-Here are some ideas to get you started:
+### What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[WagamamasMenu.uk](https://wagamamasmenu.uk/) is an independent guide to the Wagamama UK menu. It lists every dish with its price, calories and allergens, and keeps a dated log of each menu change, so you can see what went up and what disappeared.
+
+A few pages people use most:
+
+- [Calories and salt for every dish](https://wagamamasmenu.uk/menu/calories/)
+- [Menu changes and price rises](https://wagamamasmenu.uk/menu-updates/)
+- [Copycat recipes](https://wagamamasmenu.uk/recipes/)
+
+The site is unofficial and not affiliated with Wagamama Ltd.
