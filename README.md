@@ -13,3 +13,14 @@ A few pages people use most:
 - [Copycat recipes](https://wagamamasmenu.uk/recipes/)
 
 The site is unofficial and not affiliated with Wagamama Ltd.
+
+### Printer testing tools
+
+[PrinterPrintTest.com](https://printerprinttest.com/) is a free set of printer test pages and fixes. It has print-ready PDFs in A4 and US Letter for colour, black and white, nozzle checks and alignment, plus a few small tools I built for it.
+
+- [Free printer test pages](https://printerprinttest.com/printer-test-pages/)
+- [Nozzle check test page](https://printerprinttest.com/nozzle-check-test-page/)
+- [Print cost calculator](https://printerprinttest.com/print-cost-calculator/)
+- [Printer troubleshooter](https://printerprinttest.com/printer-troubleshooter/)
+
+The page layout also lives as an open-source kit: [printer-test-page-kit](https://github.com/Wajid077/printer-test-page-kit), plain HTML and print CSS under MIT.
